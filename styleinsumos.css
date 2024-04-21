@@ -1,0 +1,35 @@
+html, body {
+    /* Establece el degradado como fondo para todo el documento */
+    background: linear-gradient(90deg, #D3E9F9,#FFF);
+    /* Añade otros estilos según sea necesario */
+    font-family: Arial, sans-serif;
+    color: #333; 
+    height: 100%; 
+    margin: 0; 
+    padding: 0; 
+    
+    font-size: 16px;
+    
+}
+
+
+img:hover {
+    transform: scale(1.1); 
+}
+
+img {
+    width: 300px; 
+    height: 200px; 
+}
+  
+
+img {
+    width: 300px; 
+    height: 200px; 
+    object-fit: cover; 
+}
+
+
+  
+  
+  
